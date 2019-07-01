@@ -1,0 +1,3 @@
+rootProject.name = 'countdownSimple'
+
+include ':app'
